@@ -1,4 +1,4 @@
-# 작품명: 전화번호부 [객체지향언어 기말고사 텀프로젝트]
+# 작품명: 전화번호부 [객체지향언어 텀프로젝트]
 
 ![객체지향언어_텀프로젝트_발표자료_2018144002_강송구(최종)_page-0001](https://github.com/user-attachments/assets/e9724c8f-01d7-4747-ac6f-c9c5afa7b961)
 ![객체지향언어_텀프로젝트_발표자료_2018144002_강송구(최종)_page-0002](https://github.com/user-attachments/assets/9e3bc7ad-b4d7-4277-b10d-a20e660fd30e)
